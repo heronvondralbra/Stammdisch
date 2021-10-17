@@ -11,7 +11,8 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Agasa # add your name
 author-img: agasa.jpg # add your photo
-about-author: Gib gas # add description
+about-author: Der Verstand ist wie eine Fahrkarte. Sie hat nur dann einen Sinn, wenn sie benutzt wird.
+  Haben Sie beim Autofahren schon bemerkt, dass jeder, der langsamer fährt als Sie, ein Idiot ist und jeder, der schneller fährt, ein Verrückter? # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github:  # add your Github handle
